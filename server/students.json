@@ -1,0 +1,802 @@
+[
+  {
+    "id": "1",
+    "name": "Michael Atkinson",
+    "rollNumber": "STU1000",
+    "dob": "2004-09-01",
+    "gender": "Male",
+    "grade": "A",
+    "stream": "Physics",
+    "email": "sthomas@example.com",
+    "phone": "6326616133",
+    "address": "Robinsonfurt, American Samoa",
+    "parent": {
+      "fatherName": "John Larsen",
+      "motherName": "Jacqueline Houston",
+      "fatherPhone": "7945832125",
+      "motherPhone": "8563524985",
+      "parentEmail": "umccarthy@example.net",
+      "occupation": "Technical sales engineer"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Eric Myers",
+    "rollNumber": "STU1001",
+    "dob": "2004-07-21",
+    "gender": "Male",
+    "grade": "A",
+    "stream": "Commerce",
+    "email": "jacksonlauren@example.com",
+    "phone": "1998903532",
+    "address": "North Brandonfurt, Bahamas",
+    "parent": {
+      "fatherName": "Joseph Leon",
+      "motherName": "Haley Smith",
+      "fatherPhone": "2598069376",
+      "motherPhone": "5316453385",
+      "parentEmail": "michael88@example.com",
+      "occupation": "Educational psychologist"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Charles Torres",
+    "rollNumber": "STU1002",
+    "dob": "2007-05-24",
+    "gender": "Male",
+    "grade": "D",
+    "stream": "Computer Science",
+    "email": "breannaadams@example.com",
+    "phone": "3336045097",
+    "address": "East Hollyton, Tokelau",
+    "parent": {
+      "fatherName": "Ryan Reeves",
+      "motherName": "Jacqueline Rivera",
+      "fatherPhone": "8897127220",
+      "motherPhone": "3896505158",
+      "parentEmail": "currydestiny@example.net",
+      "occupation": "Pensions consultant"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Jamie Boyd",
+    "rollNumber": "STU1003",
+    "dob": "2003-04-14",
+    "gender": "Female",
+    "grade": "A",
+    "stream": "Physics",
+    "email": "sarashelton@example.com",
+    "phone": "7528600464",
+    "address": "West Donna, Liberia",
+    "parent": {
+      "fatherName": "Cameron Bennett DDS",
+      "motherName": "Diane Aguilar",
+      "fatherPhone": "3590899972",
+      "motherPhone": "3804772543",
+      "parentEmail": "nfrye@example.net",
+      "occupation": "Engineer, civil (contracting)"
+    }
+  },
+  {
+    "id": "5",
+    "name": "John Bean",
+    "rollNumber": "STU1004",
+    "dob": "2002-07-09",
+    "gender": "Male",
+    "grade": "B",
+    "stream": "Computer Science",
+    "email": "robert50@example.com",
+    "phone": "3560457908",
+    "address": "Katherineport, Estonia",
+    "parent": {
+      "fatherName": "Donald Gomez",
+      "motherName": "Deborah Cooper",
+      "fatherPhone": "1402106014",
+      "motherPhone": "9467837819",
+      "parentEmail": "englishholly@example.org",
+      "occupation": "English as a second language teacher"
+    }
+  },
+  {
+    "id": "6",
+    "name": "Jacqueline Cook",
+    "rollNumber": "STU1005",
+    "dob": "2006-08-25",
+    "gender": "Female",
+    "grade": "A",
+    "stream": "Computer Science",
+    "email": "jeffrey11@example.com",
+    "phone": "5555379909",
+    "address": "New Paul, Heard Island and McDonald Islands",
+    "parent": {
+      "fatherName": "Anthony Richards",
+      "motherName": "Courtney Watkins",
+      "fatherPhone": "1888572901",
+      "motherPhone": "9741670375",
+      "parentEmail": "ihunt@example.net",
+      "occupation": "Investment banker, corporate"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Eric Davis",
+    "rollNumber": "STU1006",
+    "dob": "2004-05-14",
+    "gender": "Male",
+    "grade": "A",
+    "stream": "Electrical",
+    "email": "andrewlee@example.org",
+    "phone": "7072952458",
+    "address": "North Jason, France",
+    "parent": {
+      "fatherName": "David Bradley",
+      "motherName": "Marie Thompson",
+      "fatherPhone": "1371942757",
+      "motherPhone": "8833669323",
+      "parentEmail": "cynthia36@example.net",
+      "occupation": "Animal technologist"
+    }
+  },
+  {
+    "id": "8",
+    "name": "Mary Smith",
+    "rollNumber": "STU1007",
+    "dob": "2003-08-03",
+    "gender": "Female",
+    "grade": "C",
+    "stream": "Commerce",
+    "email": "xwhite@example.net",
+    "phone": "3446683425",
+    "address": "Dianemouth, Eritrea",
+    "parent": {
+      "fatherName": "Howard Howell",
+      "motherName": "Ms. Suzanne Vance",
+      "fatherPhone": "4449528326",
+      "motherPhone": "5170843463",
+      "parentEmail": "veronicawilliamson@example.org",
+      "occupation": "Barista"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Patricia Petty",
+    "rollNumber": "STU1008",
+    "dob": "2002-01-10",
+    "gender": "Female",
+    "grade": "D",
+    "stream": "Mechanical",
+    "email": "nguyensamantha@example.org",
+    "phone": "6766306635",
+    "address": "New Austinside, Thailand",
+    "parent": {
+      "fatherName": "Austin Norris",
+      "motherName": "Kim Abbott",
+      "fatherPhone": "6994412814",
+      "motherPhone": "6807941061",
+      "parentEmail": "kingkyle@example.net",
+      "occupation": "Primary school teacher"
+    }
+  },
+  {
+    "id": "10",
+    "name": "Darren Campbell",
+    "rollNumber": "STU1009",
+    "dob": "2007-10-13",
+    "gender": "Male",
+    "grade": "B",
+    "stream": "Mechanical",
+    "email": "jason82@example.com",
+    "phone": "2879014380",
+    "address": "Lake Jennifer, Latvia",
+    "parent": {
+      "fatherName": "Jared Taylor",
+      "motherName": "Tanya Adams",
+      "fatherPhone": "6691788573",
+      "motherPhone": "4287800539",
+      "parentEmail": "kenneth29@example.net",
+      "occupation": "Scientist, biomedical"
+    }
+  },
+  {
+    "id": "11",
+    "name": "Bethany Mitchell",
+    "rollNumber": "STU1010",
+    "dob": "2006-11-23",
+    "gender": "Female",
+    "grade": "D",
+    "stream": "Mechanical",
+    "email": "calhounnicholas@example.org",
+    "phone": "8195677097",
+    "address": "Myersfort, Timor-Leste",
+    "parent": {
+      "fatherName": "Paul Douglas",
+      "motherName": "Tina Mann",
+      "fatherPhone": "0873431299",
+      "motherPhone": "0106453878",
+      "parentEmail": "walkerdiamond@example.org",
+      "occupation": "Senior tax professional/tax inspector"
+    }
+  },
+  {
+    "id": "12",
+    "name": "Stacy Rodriguez",
+    "rollNumber": "STU1011",
+    "dob": "2003-10-06",
+    "gender": "Female",
+    "grade": "D",
+    "stream": "Computer Science",
+    "email": "meyeremily@example.com",
+    "phone": "1298321588",
+    "address": "New David, Italy",
+    "parent": {
+      "fatherName": "Jeremiah Lopez",
+      "motherName": "Sarah Davidson",
+      "fatherPhone": "6346779356",
+      "motherPhone": "0749008428",
+      "parentEmail": "dthomas@example.com",
+      "occupation": "Quality manager"
+    }
+  },
+  {
+    "id": "13",
+    "name": "Brian Strickland",
+    "rollNumber": "STU1012",
+    "dob": "2007-02-18",
+    "gender": "Male",
+    "grade": "B",
+    "stream": "Electrical",
+    "email": "lbarton@example.com",
+    "phone": "8405528880",
+    "address": "Lake Frederickview, Oman",
+    "parent": {
+      "fatherName": "Michael Nunez",
+      "motherName": "Katherine Lopez",
+      "fatherPhone": "7649649498",
+      "motherPhone": "4640908593",
+      "parentEmail": "moodyjohn@example.net",
+      "occupation": "Pilot, airline"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Lauren Carroll MD",
+    "rollNumber": "STU1013",
+    "dob": "2002-09-02",
+    "gender": "Female",
+    "grade": "D",
+    "stream": "Biology",
+    "email": "mike01@example.com",
+    "phone": "9813024699",
+    "address": "Fernandezhaven, Turkey",
+    "parent": {
+      "fatherName": "John Murphy IV",
+      "motherName": "Jessica Simmons",
+      "fatherPhone": "7805886480",
+      "motherPhone": "5663504638",
+      "parentEmail": "ttorres@example.org",
+      "occupation": "Recruitment consultant"
+    }
+  },
+  {
+    "id": "15",
+    "name": "Kimberly Williams",
+    "rollNumber": "STU1014",
+    "dob": "2002-08-30",
+    "gender": "Female",
+    "grade": "B",
+    "stream": "Biology",
+    "email": "lbrown@example.net",
+    "phone": "7021175503",
+    "address": "Reillyfort, Saint Helena",
+    "parent": {
+      "fatherName": "James Goodman",
+      "motherName": "Melanie Morales",
+      "fatherPhone": "8905870905",
+      "motherPhone": "5387746180",
+      "parentEmail": "justinrodriguez@example.org",
+      "occupation": "Water quality scientist"
+    }
+  },
+  {
+    "id": "16",
+    "name": "Jared Smith",
+    "rollNumber": "STU1015",
+    "dob": "2007-11-25",
+    "gender": "Male",
+    "grade": "B",
+    "stream": "Electrical",
+    "email": "gmeyer@example.com",
+    "phone": "5318991931",
+    "address": "South Jason, Guinea",
+    "parent": {
+      "fatherName": "Mark Pittman",
+      "motherName": "Katie Carey",
+      "fatherPhone": "7917674228",
+      "motherPhone": "4372015631",
+      "parentEmail": "irodriguez@example.net",
+      "occupation": "Sales promotion account executive"
+    }
+  },
+  {
+    "id": "17",
+    "name": "Samantha Harrison",
+    "rollNumber": "STU1016",
+    "dob": "2005-01-18",
+    "gender": "Female",
+    "grade": "A",
+    "stream": "Physics",
+    "email": "amber18@example.com",
+    "phone": "4152273108",
+    "address": "Chungview, Holy See (Vatican City State)",
+    "parent": {
+      "fatherName": "David Rogers",
+      "motherName": "Julie Smith",
+      "fatherPhone": "6800475875",
+      "motherPhone": "5370156213",
+      "parentEmail": "petersonemily@example.com",
+      "occupation": "Mental health nurse"
+    }
+  },
+  {
+    "id": "18",
+    "name": "Sarah Collier",
+    "rollNumber": "STU1017",
+    "dob": "2007-11-15",
+    "gender": "Female",
+    "grade": "D",
+    "stream": "Biology",
+    "email": "rbender@example.net",
+    "phone": "1534297633",
+    "address": "Blanchardmouth, Egypt",
+    "parent": {
+      "fatherName": "Jeffrey Villarreal",
+      "motherName": "Sharon Harrison",
+      "fatherPhone": "8247764176",
+      "motherPhone": "4471659106",
+      "parentEmail": "adamwerner@example.com",
+      "occupation": "Scientist, water quality"
+    }
+  },
+  {
+    "id": "19",
+    "name": "Ryan Cooper",
+    "rollNumber": "STU1018",
+    "dob": "2005-06-14",
+    "gender": "Male",
+    "grade": "C",
+    "stream": "Mechanical",
+    "email": "melissaterry@example.org",
+    "phone": "6658654491",
+    "address": "Natashaburgh, Slovakia (Slovak Republic)",
+    "parent": {
+      "fatherName": "Charles Hicks",
+      "motherName": "Amy Howard",
+      "fatherPhone": "3280329635",
+      "motherPhone": "3598039253",
+      "parentEmail": "michelle20@example.com",
+      "occupation": "Public librarian"
+    }
+  },
+  {
+    "id": "20",
+    "name": "Christopher Bennett III",
+    "rollNumber": "STU1019",
+    "dob": "2008-01-03",
+    "gender": "Male",
+    "grade": "B",
+    "stream": "Electrical",
+    "email": "cbutler@example.org",
+    "phone": "5438452481",
+    "address": "Freemanton, Martinique",
+    "parent": {
+      "fatherName": "Matthew Frazier",
+      "motherName": "Miss Julie Barron",
+      "fatherPhone": "2646263497",
+      "motherPhone": "8479878739",
+      "parentEmail": "veronica63@example.org",
+      "occupation": "Lecturer, higher education"
+    }
+  },
+  {
+    "id": "21",
+    "name": "Sarah Randall",
+    "rollNumber": "STU1020",
+    "dob": "2004-02-28",
+    "gender": "Female",
+    "grade": "A",
+    "stream": "Commerce",
+    "email": "amyrobinson@example.com",
+    "phone": "4841906784",
+    "address": "Sarahside, Mayotte",
+    "parent": {
+      "fatherName": "Cody Hill",
+      "motherName": "Kristin Ryan",
+      "fatherPhone": "8098435514",
+      "motherPhone": "3159851721",
+      "parentEmail": "edwardclayton@example.org",
+      "occupation": "Product manager"
+    }
+  },
+  {
+    "id": "22",
+    "name": "Richard Lewis",
+    "rollNumber": "STU1021",
+    "dob": "2006-02-23",
+    "gender": "Male",
+    "grade": "C",
+    "stream": "Biology",
+    "email": "andersonjuan@example.net",
+    "phone": "5233728358",
+    "address": "Taylorville, Belarus",
+    "parent": {
+      "fatherName": "Robert Sampson",
+      "motherName": "Meghan Griffin",
+      "fatherPhone": "1980869360",
+      "motherPhone": "5828582008",
+      "parentEmail": "jacksonjaclyn@example.org",
+      "occupation": "Geophysicist/field seismologist"
+    }
+  },
+  {
+    "id": "23",
+    "name": "Lindsay Taylor",
+    "rollNumber": "STU1022",
+    "dob": "2008-06-02",
+    "gender": "Female",
+    "grade": "B",
+    "stream": "Electrical",
+    "email": "kelly93@example.com",
+    "phone": "4544011840",
+    "address": "Lauraview, Lao People's Democratic Republic",
+    "parent": {
+      "fatherName": "David Reynolds",
+      "motherName": "Brandy Lee",
+      "fatherPhone": "9530834600",
+      "motherPhone": "6814269080",
+      "parentEmail": "angela45@example.com",
+      "occupation": "Scientific laboratory technician"
+    }
+  },
+  {
+    "id": "24",
+    "name": "Michael Long",
+    "rollNumber": "STU1023",
+    "dob": "2003-12-15",
+    "gender": "Male",
+    "grade": "D",
+    "stream": "Mechanical",
+    "email": "brian00@example.com",
+    "phone": "4475650638",
+    "address": "Ryanborough, Martinique",
+    "parent": {
+      "fatherName": "Jeffrey Peterson",
+      "motherName": "Heather Henry",
+      "fatherPhone": "0500134075",
+      "motherPhone": "1305143415",
+      "parentEmail": "hooddavid@example.com",
+      "occupation": "Analytical chemist"
+    }
+  },
+  {
+    "id": "25",
+    "name": "Lindsey Vasquez",
+    "rollNumber": "STU1024",
+    "dob": "2006-02-13",
+    "gender": "Female",
+    "grade": "A",
+    "stream": "Physics",
+    "email": "robertrosario@example.org",
+    "phone": "8533748904",
+    "address": "North Tammy, Croatia",
+    "parent": {
+      "fatherName": "Henry Long",
+      "motherName": "Mrs. Ana Martin",
+      "fatherPhone": "0411447021",
+      "motherPhone": "7002037159",
+      "parentEmail": "kristy36@example.com",
+      "occupation": "Legal executive"
+    }
+  },
+  {
+    "id": "26",
+    "name": "Logan Moore",
+    "rollNumber": "STU1025",
+    "dob": "2008-05-05",
+    "gender": "Male",
+    "grade": "C",
+    "stream": "Biology",
+    "email": "wardryan@example.org",
+    "phone": "7927325946",
+    "address": "New Tyler, Guatemala",
+    "parent": {
+      "fatherName": "James Hicks Jr.",
+      "motherName": "Isabella Mcintosh",
+      "fatherPhone": "8242057507",
+      "motherPhone": "5483078311",
+      "parentEmail": "danielle58@example.net",
+      "occupation": "Media planner"
+    }
+  },
+  {
+    "id": "27",
+    "name": "Bradley Moses",
+    "rollNumber": "STU1026",
+    "dob": "2007-05-28",
+    "gender": "Male",
+    "grade": "A",
+    "stream": "Mechanical",
+    "email": "sgreen@example.org",
+    "phone": "8399362560",
+    "address": "East Matthew, Morocco",
+    "parent": {
+      "fatherName": "Dylan Parker",
+      "motherName": "Michelle Owen",
+      "fatherPhone": "2872348219",
+      "motherPhone": "6917577699",
+      "parentEmail": "evansbrianna@example.net",
+      "occupation": "Scientist, research (life sciences)"
+    }
+  },
+  {
+    "id": "28",
+    "name": "Jessica Aguilar",
+    "rollNumber": "STU1027",
+    "dob": "2006-10-06",
+    "gender": "Female",
+    "grade": "C",
+    "stream": "Biology",
+    "email": "higginsmonique@example.net",
+    "phone": "4962183836",
+    "address": "Garciaside, Cuba",
+    "parent": {
+      "fatherName": "Eric Jones III",
+      "motherName": "Patricia Evans",
+      "fatherPhone": "4298349986",
+      "motherPhone": "0624924302",
+      "parentEmail": "torressean@example.com",
+      "occupation": "Architectural technologist"
+    }
+  },
+  {
+    "id": "29",
+    "name": "Deanna Reilly",
+    "rollNumber": "STU1028",
+    "dob": "2004-12-29",
+    "gender": "Female",
+    "grade": "A",
+    "stream": "Physics",
+    "email": "kelsey95@example.net",
+    "phone": "4238819065",
+    "address": "New Kyletown, Tanzania",
+    "parent": {
+      "fatherName": "Jonathan Smith",
+      "motherName": "Laura Mathis",
+      "fatherPhone": "7363407049",
+      "motherPhone": "9659382170",
+      "parentEmail": "kaitlin92@example.net",
+      "occupation": "Outdoor activities/education manager"
+    }
+  },
+  {
+    "id": "30",
+    "name": "Deborah Blackwell",
+    "rollNumber": "STU1029",
+    "dob": "2005-09-25",
+    "gender": "Female",
+    "grade": "A",
+    "stream": "Commerce",
+    "email": "nwilliams@example.com",
+    "phone": "1156067883",
+    "address": "South Jennifer, Reunion",
+    "parent": {
+      "fatherName": "Brandon Combs",
+      "motherName": "Katherine Morris",
+      "fatherPhone": "4878345289",
+      "motherPhone": "4475656552",
+      "parentEmail": "atkinsvicki@example.com",
+      "occupation": "Fish farm manager"
+    }
+  },
+  {
+    "id": "31",
+    "name": "Jesse Howell",
+    "rollNumber": "STU1030",
+    "dob": "2006-04-15",
+    "gender": "Male",
+    "grade": "B",
+    "stream": "Electrical",
+    "email": "curtishanna@example.org",
+    "phone": "0870093589",
+    "address": "East Maryburgh, Afghanistan",
+    "parent": {
+      "fatherName": "Benjamin Berry IV",
+      "motherName": "Sarah Wiley",
+      "fatherPhone": "6377367095",
+      "motherPhone": "5022346299",
+      "parentEmail": "shannonmartinez@example.org",
+      "occupation": "Sales executive"
+    }
+  },
+  {
+    "id": "32",
+    "name": "Jonathan Ward",
+    "rollNumber": "STU1031",
+    "dob": "2001-12-13",
+    "gender": "Male",
+    "grade": "A",
+    "stream": "Computer Science",
+    "email": "jparker@example.org",
+    "phone": "0836760205",
+    "address": "Theodorehaven, Morocco",
+    "parent": {
+      "fatherName": "James Calderon",
+      "motherName": "Angela Miller",
+      "fatherPhone": "8522656153",
+      "motherPhone": "5234687022",
+      "parentEmail": "owilson@example.com",
+      "occupation": "Cabin crew"
+    }
+  },
+  {
+    "id": "33",
+    "name": "Susan Roman",
+    "rollNumber": "STU1032",
+    "dob": "2004-08-22",
+    "gender": "Female",
+    "grade": "D",
+    "stream": "Electrical",
+    "email": "campbelljulia@example.com",
+    "phone": "4166772204",
+    "address": "South Alan, Lebanon",
+    "parent": {
+      "fatherName": "Samuel Ortega",
+      "motherName": "Kelly Hernandez",
+      "fatherPhone": "7513974768",
+      "motherPhone": "8797462496",
+      "parentEmail": "patrickwhite@example.org",
+      "occupation": "Therapist, speech and language"
+    }
+  },
+  {
+    "id": "34",
+    "name": "Juan Johnson",
+    "rollNumber": "STU1033",
+    "dob": "2007-05-11",
+    "gender": "Male",
+    "grade": "D",
+    "stream": "Biology",
+    "email": "vbarnes@example.org",
+    "phone": "6151071768",
+    "address": "East Kyle, Guadeloupe",
+    "parent": {
+      "fatherName": "Michael Beasley",
+      "motherName": "Nicole Yates",
+      "fatherPhone": "6472032845",
+      "motherPhone": "6956087419",
+      "parentEmail": "nicolasmartinez@example.com",
+      "occupation": "Patent examiner"
+    }
+  },
+  {
+    "id": "35",
+    "name": "Linda Fisher",
+    "rollNumber": "STU1034",
+    "dob": "2008-03-21",
+    "gender": "Female",
+    "grade": "C",
+    "stream": "Biology",
+    "email": "marisa44@example.org",
+    "phone": "4607499234",
+    "address": "Jeremyburgh, Lebanon",
+    "parent": {
+      "fatherName": "Ronald Martinez",
+      "motherName": "Mary Lynch",
+      "fatherPhone": "3723147399",
+      "motherPhone": "3422900444",
+      "parentEmail": "combsbrandon@example.com",
+      "occupation": "Public affairs consultant"
+    }
+  },
+  {
+    "id": "36",
+    "name": "Chelsea Schmidt",
+    "rollNumber": "STU1035",
+    "dob": "2003-04-21",
+    "gender": "Female",
+    "grade": "C",
+    "stream": "Commerce",
+    "email": "jorgemorris@example.org",
+    "phone": "8188407033",
+    "address": "Clarkebury, Martinique",
+    "parent": {
+      "fatherName": "Carl Lee",
+      "motherName": "Stephanie Phelps",
+      "fatherPhone": "7148688054",
+      "motherPhone": "5019651594",
+      "parentEmail": "natalie42@example.org",
+      "occupation": "Broadcast engineer"
+    }
+  },
+  {
+    "id": "37",
+    "name": "Michael Green",
+    "rollNumber": "STU1036",
+    "dob": "2006-10-23",
+    "gender": "Male",
+    "grade": "D",
+    "stream": "Mechanical",
+    "email": "coffeyashley@example.net",
+    "phone": "6304601948",
+    "address": "Thomasside, Nauru",
+    "parent": {
+      "fatherName": "Robert Williamson",
+      "motherName": "Michele King",
+      "fatherPhone": "7142535610",
+      "motherPhone": "2788135735",
+      "parentEmail": "cpruitt@example.org",
+      "occupation": "Exercise physiologist"
+    }
+  },
+  {
+    "id": "38",
+    "name": "Joan Thompson",
+    "rollNumber": "STU1037",
+    "dob": "2001-10-10",
+    "gender": "Female",
+    "grade": "A",
+    "stream": "Biology",
+    "email": "edward19@example.com",
+    "phone": "5664144341",
+    "address": "Adrianafort, France",
+    "parent": {
+      "fatherName": "Paul Snow",
+      "motherName": "Ann Jones",
+      "fatherPhone": "3221909749",
+      "motherPhone": "4750530067",
+      "parentEmail": "jennifer37@example.com",
+      "occupation": "Operational researcher"
+    }
+  },
+  {
+    "id": "39",
+    "name": "Nicholas Nguyen",
+    "rollNumber": "STU1038",
+    "dob": "2005-01-19",
+    "gender": "Male",
+    "grade": "B",
+    "stream": "Computer Science",
+    "email": "yphillips@example.com",
+    "phone": "8814105750",
+    "address": "Millershire, Fiji",
+    "parent": {
+      "fatherName": "Frank Stanley",
+      "motherName": "Dana Mitchell",
+      "fatherPhone": "5043565855",
+      "motherPhone": "1724267455",
+      "parentEmail": "lawsonamanda@example.com",
+      "occupation": "Mechanical engineer"
+    }
+  },
+  {
+    "id": "40",
+    "name": "Kenneth Pitts",
+    "rollNumber": "STU1039",
+    "dob": "2005-04-06",
+    "gender": "Male",
+    "grade": "B",
+    "stream": "Physics",
+    "email": "vancedonna@example.net",
+    "phone": "3479688795",
+    "address": "East Elizabethville, Nigeria",
+    "parent": {
+      "fatherName": "Samuel Mcdowell",
+      "motherName": "Veronica Robinson",
+      "fatherPhone": "3128978503",
+      "motherPhone": "8374455108",
+      "parentEmail": "michael24@example.org",
+      "occupation": "Music tutor"
+    }
+  }
+]
