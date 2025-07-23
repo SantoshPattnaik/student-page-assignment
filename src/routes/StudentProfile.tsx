@@ -13,7 +13,7 @@ const StudentProfile = () => {
 			.get(`http://localhost:3000/api/students/${id}`)
 			.then((res) => setStudent(res.data))
 			.catch((err) => {
-				console.log("error occuurerdd: ", err);
+				console.log("error occurred: ", err);
 				navigate("/");
 			});
 	}, [id, navigate]);
